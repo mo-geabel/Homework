@@ -1,0 +1,3 @@
+{"event": "created", "path": "C:/Users/moham/bsm/test/New Text Document.txt", "timestamp": "2024-11-29 22:15:38"}
+{"event": "modified", "path": "C:/Users/moham/bsm/test/Hello there.txt", "timestamp": "2024-11-29 22:16:26"}
+{"event": "deleted", "path": "C:/Users/moham/bsm/test/Hello there.txt", "timestamp": "2024-11-29 22:17:05"}
