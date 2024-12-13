@@ -1,3 +1,15 @@
-{"event": "created", "path": "C:/Users/moham/bsm/test/New Text Document.txt", "timestamp": "2024-11-29 22:15:38"}
-{"event": "modified", "path": "C:/Users/moham/bsm/test/Hello there.txt", "timestamp": "2024-11-29 22:16:26"}
-{"event": "deleted", "path": "C:/Users/moham/bsm/test/Hello there.txt", "timestamp": "2024-11-29 22:17:05"}
+
+{"event": "created", "path": "/home/mgd1/MGD/test/nfile.txt", "timestamp": "2024-12-10 11:04:38"}
+{"event": "modified", "path": "/home/mgd1/MGD/test", "timestamp": "2024-12-10 11:04:38"}
+{"event": "modified", "path": "/home/mgd1/MGD/test/nfile.txt", "timestamp": "2024-12-10 11:04:38"}
+{"event": "modified", "path": "/home/mgd1/MGD/test", "timestamp": "2024-12-10 11:04:38"}
+{"event": "created", "path": "/home/mgd1/MGD/test/nfolder", "timestamp": "2024-12-10 11:04:48"}
+{"event": "modified", "path": "/home/mgd1/MGD/test", "timestamp": "2024-12-10 11:04:48"}
+{"event": "modified", "path": "/home/mgd1/MGD/test", "timestamp": "2024-12-10 11:05:06"}
+{"event": "modified", "path": "/home/mgd1/MGD/test/nfolder", "timestamp": "2024-12-10 11:05:06"}
+{"event": "modified", "path": "/home/mgd1/MGD/test/nfolder/nfile.txt", "timestamp": "2024-12-10 11:05:42"}
+{"event": "modified", "path": "/home/mgd1/MGD/test/nfolder", "timestamp": "2024-12-10 11:05:42"}
+{"event": "deleted", "path": "/home/mgd1/MGD/test/nfolder/nfile.txt", "timestamp": "2024-12-10 11:06:23"}
+{"event": "modified", "path": "/home/mgd1/MGD/test/nfolder", "timestamp": "2024-12-10 11:06:23"}
+{"event": "deleted", "path": "/home/mgd1/MGD/test/nfolder", "timestamp": "2024-12-10 11:06:23"}
+{"event": "modified", "path": "/home/mgd1/MGD/test", "timestamp": "2024-12-10 11:06:23"}
