@@ -4,8 +4,8 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # Directory to watch
-DIRECTORY_TO_WATCH = "C:/Users/moham/bsm/test"
-LOG_FILE = r"C:\Users\moham\bsm\logs\changes.json"
+DIRECTORY_TO_WATCH = "/home/mgd1/MGD/test"
+LOG_FILE = "/home/mgd1/MGD/logs/changes.json"
 
 class Watcher:
     def __init__(self):
