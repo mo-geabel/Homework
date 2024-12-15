@@ -13,3 +13,12 @@
 {"event": "modified", "path": "/home/mgd1/MGD/test/nfolder", "timestamp": "2024-12-10 11:06:23"}
 {"event": "deleted", "path": "/home/mgd1/MGD/test/nfolder", "timestamp": "2024-12-10 11:06:23"}
 {"event": "modified", "path": "/home/mgd1/MGD/test", "timestamp": "2024-12-10 11:06:23"}
+{"event": "created", "path": "/home/mgd1/MGD/test/newFile.txt", "timestamp": "2024-12-15 17:59:42"}
+{"event": "modified", "path": "/home/mgd1/MGD/test", "timestamp": "2024-12-15 17:59:42"}
+{"event": "modified", "path": "/home/mgd1/MGD/test/newFile.txt", "timestamp": "2024-12-15 17:59:42"}
+{"event": "modified", "path": "/home/mgd1/MGD/test", "timestamp": "2024-12-15 17:59:42"}
+{"event": "modified", "path": "/home/mgd1/MGD/test/newFile.txt", "timestamp": "2024-12-15 18:00:02"}
+{"event": "modified", "path": "/home/mgd1/MGD/test/newFile.txt", "timestamp": "2024-12-15 18:00:02"}
+{"event": "modified", "path": "/home/mgd1/MGD/test", "timestamp": "2024-12-15 18:00:02"}
+{"event": "deleted", "path": "/home/mgd1/MGD/test/newFile.txt", "timestamp": "2024-12-15 18:00:53"}
+{"event": "modified", "path": "/home/mgd1/MGD/test", "timestamp": "2024-12-15 18:00:53"}
